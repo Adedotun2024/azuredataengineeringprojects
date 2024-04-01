@@ -1,0 +1,17 @@
+[
+ {
+   "sourceBaseURL": "https://raw.githubusercontent.com/",
+   "sourceRelativeURL": "Adedotun2024/azuredataengineeringprojects/main/Bulk%20Copy%20Dataset/Customer.csv",
+   "FileName": "Customer.csv"
+ },
+ {
+   "sourceBaseURL": "https://raw.githubusercontent.com/",
+   "sourceRelativeURL": "Adedotun2024/azuredataengineeringprojects/main/Bulk%20Copy%20Dataset/SalesOrder.csv",
+   "FileName": "SalesOrder.csv"
+ },
+ {
+   "sourceBaseURL": "https://raw.githubusercontent.com/",
+   "sourceRelativeURL": "Adedotun2024/azuredataengineeringprojects/main/Bulk%20Copy%20Dataset/Product.csv",
+   "FileName": "Product.csv"
+ }
+]
